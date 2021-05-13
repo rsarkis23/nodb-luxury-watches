@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "brand": "Patek Philippe",
+        "model": "Calatrava",
+        "img": "https://static.patek.com/images/articles/face_white/350/5227G_010_1.jpg"
+
+    },
+    {
+        "id": 2,
+        "brand": "Patek Philippe",
+        "model": "Nautilus",
+        "img": "https://thewatchlounge.com/wp-content/uploads/2018/08/patek-philippe-nautilus-automatic-steel-black-blue-dial-mens-bracelet-watch-p10145-19836_image.png" 
+    },
+    {
+        "id": 3,
+        "brand": "Rolex",
+        "model": "Rainbow Daytona",
+        "img": "https://www.swissluxury.com/product_images/116595RBOWbkgcs.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Rolex",
+        "model": "Submariner",
+        "img": "https://cdn.shopify.com/s/files/1/0195/2352/files/red-sub.jpg?v=1583264431"
+    },
+    {
+        "id": 5,
+        "brand": "Audemars Puiget",
+        "model": "Royal Oak",
+        "img": "https://lh3.googleusercontent.com/proxy/uIAwjfM2Xn-OHcs4u-TxDRUfOA9o9WZV98GfE6mJXUa4RMhsNMVO62PJhHBNkw5bd2X18txkXOdBOiZJCWZf7P6tzTz1JxS5Z6pqgvlBdBY-SPeT0j6JeLstOGk0Eoa6pp2dgGvqCnidIwD4"
+    },
+    {
+        "id": 6,
+        "brand": "Vacheron Constantine",
+        "model": "Historiques American 1921",
+        "img": "https://www.vacheron-constantin.com/content/dam/rcq/vac/16/15/25/8/1615258.png.scale.780.1275.png"
+    },
+    {
+        "id": 7,
+        "brand": "A. Lange & Sohne",
+        "model": "Lange 1",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Frobertanaas%2Ffiles%2F2019%2F04%2FALS_720_066_F_1905625-1200x2043.jpg"
+    },
+    {
+        "id": 8,
+        "brand": "A. Lange & Sohne",
+        "model": "Saxonia",
+        "img": "https://cdn2.chrono24.com/images/uhren/16018823-2wm58lrckz93jtmbk22io14k-ExtraLarge.jpg"
+    }
+]
